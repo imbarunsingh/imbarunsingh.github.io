@@ -19,7 +19,7 @@ Lead software engineer with over a decade of experience in building enterprise a
 ## Experience
 
 ### **ASSISTANT VICE PRESIDENT**
-### JP MORGAN & CHASE CO LTD
+### JP Morgan Chase Ltd
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
@@ -43,6 +43,5 @@ Worked on java , hybris framework and promotion engine. Created registration pro
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
 
 I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
