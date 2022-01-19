@@ -1,11 +1,9 @@
 title: Barun Singh # your name (or website title) here
 logo: "/profile.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- Senior Frontend Engineer
+ Senior Software Engineer
   <br><br>
   <a href="mailto:barun.singh1204@gmail.com">barun.singh1204@gmail.com</a>
   <br>
-  <a href="https://www.linkedin.com/in/barun-singh-1204/">LinkedIn Profile</a>
-  <br>
-  <a href="https://www.gihub.com/aashimaahuja/">Github</a> 
+  <a href="https://www.linkedin.com/in/barun-singh-1204/">LinkedIn Profile</a>  
 theme: jekyll-theme-minimal
