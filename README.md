@@ -21,18 +21,33 @@ Lead software engineer with over a decade of experience in building enterprise a
 ### **ASSISTANT VICE PRESIDENT**
 ### JP Morgan Chase Ltd
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+Working with Jp Morgan consumer banking on big data stack.
 
 ### **STAFF II**
 ### Deloitte Innovation Lab
+Deloitte's ConnectMe™ is a scalable, flexible, cloud-based SaaS (Software as a Service) that transforms how HR organizations deliver services to various personas (for example, employees, managers, HR Operations, etc.).
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+Key Roles & Responsibilities
+
+ Application & Database Design, Architecture
+
+ Implemented Security, Authentication, and Authorization layer
+
+ Performance & Scalability Analysis and Improvement.
+
+ Established Continuous Integration setup using Jenkins.
+
+ Orchestrated Microservice Deployments using Amazon Elastic Container Service.
+
+
+Tools & Technologies: Java, Spring Cloud, Spring Boot, Microservices, AWS, Salesforce, Docker, Continuous Integration & Continuous Delivery, Apex, Automation testing using cucumber framework and Appium, Google Analytics, Messaging Middle-ware(RabbitMQ).
 
 ### **SOFTWARE DEVELOPER**
 ### EMC Corporation
 
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+Worked on EMC Life care System which is a web-based and mobile healthcare solution that enables members to manage their health plans, prescriptions, and research for medication, providers, plans and more from any digital channel - mobile, tablet, or desktop.
 
+Skill Set: Java, Spring Cloud, Microservices, Spring REST, Spring Boot, Spring Core, Spring Data,Spring Web Services, PostgreSQL, MongoDB, Puppet, Pivotal Cloud Foundry, RabbitMQ, VMware vFabric tc Server.
 ---
 
 ## Education
