@@ -9,9 +9,13 @@ Lead software engineer with over a decade of experience in building enterprise a
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">   
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  
+  <img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="Hadoop" width="40" height="40"/>  
+  <img src="https://miro.medium.com/max/1400/1*Nt5ATQVHe9veHHjLihScDQ.png" alt="Apache Spark" width="40" height="40"/>
+  <img src="https://uploads-ssl.webflow.com/5f3acb2672fdcd05b7611500/5fdb9e7105edc00d5378b856_kafkalogo.jpg" alt="Kafka" width="40" height="40"/>
+  
 </p>
 
 ---
