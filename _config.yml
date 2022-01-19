@@ -4,6 +4,6 @@ description: > # your text below (remove <br> elements if you don't need line br
  Senior Software Engineer
   <br><br>
   <a href="mailto:barun.singh1204@gmail.com">barun.singh1204@gmail.com</a>
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/barun-singh-1204/">LinkedIn Profile</a>  
 theme: jekyll-theme-minimal
