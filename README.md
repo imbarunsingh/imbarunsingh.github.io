@@ -23,6 +23,7 @@ Lead software engineer with over a decade of experience in building enterprise a
 
 Working with Jp Morgan consumer banking on big data stack.
 
+
 ### **STAFF II**
 ### Deloitte Innovation Lab
 Deloitte's ConnectMe™ is a scalable, flexible, cloud-based SaaS (Software as a Service) that transforms how HR organizations deliver services to various personas (for example, employees, managers, HR Operations, etc.).
@@ -47,13 +48,14 @@ Tools & Technologies: Java, Spring Cloud, Spring Boot, Microservices, AWS, Sales
 
 Worked on EMC Life care System which is a web-based and mobile healthcare solution that enables members to manage their health plans, prescriptions, and research for medication, providers, plans and more from any digital channel - mobile, tablet, or desktop.
 
-Skill Set: Java, Spring Cloud, Microservices, Spring REST, Spring Boot, Spring Core, Spring Data,Spring Web Services, PostgreSQL, MongoDB, Puppet, Pivotal Cloud Foundry, RabbitMQ, VMware vFabric tc Server.
+Tools & Technologies: Java, Spring Cloud, Spring Boot, Microservices, AWS, Salesforce, Docker, Continuous Integration & Continuous Delivery, Apex, Automation testing using cucumber framework and Appium, Google Analytics, Messaging Middle-ware(RabbitMQ).
+
 ---
 
 ## Education
 
 ### **West Bengal University Of Technology**
-### BTech Electronics & Comunication ENgineering (2007- 2011)
+### BTech - Electronics & Comunication ENgineering (2007- 2011)
 
 ---
 
